@@ -1,0 +1,84 @@
+    h1, h2, h3 {
+        font-family: Arial, sans-serif;
+    }
+    p {
+        font-family: Georgia, serif;
+    }
+
+    h1 {
+        font-size: 32px;
+        font-weight: bold;
+        text-decoration: underline;
+
+    }
+    h2 {
+        font-size: 24px;
+        font-weight: bold;
+    }
+    h3 {
+        font-size: 18px;
+        font-weight: bold;
+    }
+    p {
+        font-size: 16px;
+        font-weight: normal;
+    }
+
+    h1, h2, h3 {
+        color:black;
+    }
+    p {
+        color: #3407fe;
+    }
+
+    body {
+        background-color:#ecc19c;
+        background-image: url(./images/2nd.webp);
+    }
+
+    a {
+        text-decoration: underline;
+        color: #0a77f4;
+        font-weight: bold;
+    }
+
+    .uppercase {
+        text-transform: uppercase;
+        color: rgba(3, 77, 28, 0.719);
+    }
+    .lowercase {
+        text-transform: lowercase;
+        color:#1e847f;
+    }
+    .capitalize {
+        text-transform: capitalize;
+        color: rgb(249, 12, 12);
+    }
+
+    h1 {
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        
+    }
+.white{
+    color:rgb(223, 34, 34);
+}
+.italic{
+    font-style: italic;
+
+}
+.line{
+    line-height: 1.4em;
+    color:#f31861 ;
+    text-decoration: underline;
+}
+.main{
+   background-color:  #1e847f;
+   text-shadow: rgb(0, 0, 0);
+}
+.bold{
+    font-weight: bold;
+    color:black;
+}
+.green{
+    color: #440726de;
+}
